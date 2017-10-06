@@ -106,22 +106,22 @@ nav ul li a{
   width: 90%;
   height:60px;
   background-color: #d6ffff;
-  color: #1a661a;
+  color: #edfffd;
   line-height: 60px;
   text-align: center;
   text-decoration: none;
 }
 nav ul li a.selected{
   text-decoration: underline;
-  background: #497744;
+  background: #bafffc;
 }
 nav ul li a:hover{
-  background: #497744;
+  background: #bafffc;
 }
 section{
   width:65%;
   min-height:300px;
-  background: #255e32;
+  background: #c4d3d3;
   float: right;
   margin:10px;
 }
