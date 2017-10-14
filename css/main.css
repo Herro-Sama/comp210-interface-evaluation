@@ -38,6 +38,7 @@
  	display: block;
  }
  body {
+  background-image: url("background.png");
  	line-height: 1;
  }
  ol, ul {
