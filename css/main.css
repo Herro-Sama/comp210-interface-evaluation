@@ -38,9 +38,8 @@
  	display: block;
  }
  body {
-  background-image: url("background.png");
-  background-repeat: repeat-x;
- 	line-height: 1;
+   background: linear-gradient(black, white);;
+  line-height: 1;
  }
  ol, ul {
  	list-style: none;
@@ -63,8 +62,7 @@ body, html{
   height:100%;
   margin:0px;
   font-family: 'Roboto', sans-serif;
-  background-image: url("background.png");
-  background-repeat: repeat-x;
+   background: linear-gradient(orange, brown);
 }
 h1{
   font-size: 2em;
